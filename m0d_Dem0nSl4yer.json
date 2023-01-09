@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-2080033745578001/9698906404",
+      "main_ads_intertitial":"ca-app-pub-2080033745578001/7072743064",
+      "main_ads_natives":"ca-app-pub-2080033745578001/2722434510",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"ca-app-pub-2080033745578001/5158107731",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17fbc2ebd",
+      "initialize_sdk_backup_ads":"17fbc2ebd",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Demon slayer",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Demon%20slayer/Demon%20slayer.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Demon%20slayer/Demon%20slayer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Huge Pack Demon Slayer",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Huge%20Pack%20Demon%20Slayer/Huge%20Pack%20Demon%20Slayer.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Huge%20Pack%20Demon%20Slayer/Huge%20Pack%20Demon%20Slayer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Improved Version of Inoske",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Improved%20Version%20of%20Inoske/Improved%20Version%20of%20Inoske.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Improved%20Version%20of%20Inoske/Improved%20Version%20of%20Inoske.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Kibutsuji Muzan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Kibutsuji%20Muzan/Kibutsuji%20Muzan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Kibutsuji%20Muzan/Kibutsuji%20Muzan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Pack Demon Slayer",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Pack%20Demon%20Slayer/Pack%20Demon%20Slayer.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Pack%20Demon%20Slayer/Pack%20Demon%20Slayer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Pack Demon Slayer 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Pack%20Demon%20Slayer%202/Pack%20Demon%20Slayer%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Pack%20Demon%20Slayer%202/Pack%20Demon%20Slayer%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Small Pack Demon Slayer",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Small%20Pack%20Demon%20Slayer/Small%20Pack%20Demon%20Slayer.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Small%20Pack%20Demon%20Slayer/Small%20Pack%20Demon%20Slayer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Tanjiro",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro/Tanjiro.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro/Tanjiro.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Tanjiro DEMON KING",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro%20DEMON%20KING/Tanjiro%20DEMON%20KING.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro%20DEMON%20KING/Tanjiro%20DEMON%20KING.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Tanjiro Kamado",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro%20Kamado/Tanjiro%20Kamado.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tanjiro%20Kamado/Tanjiro%20Kamado.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Tengen Uzuy",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tengen%20Uzuy/Tengen%20Uzuy.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Demon%20Slayer/Tengen%20Uzuy/Tengen%20Uzuy.jpg",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
