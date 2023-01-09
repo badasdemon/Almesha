@@ -1,0 +1,135 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-2080033745578001/3871864652",
+      "main_ads_intertitial":"ca-app-pub-2080033745578001/1217781157",
+      "main_ads_natives":"ca-app-pub-2080033745578001/8714209365",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"ca-app-pub-2080033745578001/7205423244",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17fbc6845",
+      "initialize_sdk_backup_ads":"17fbc6845",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Armored Titan",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Armored%20Titan/Armored%20Titan.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Armored%20Titan/Armored%20Titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Attack On Melon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20On%20Melon/Attack%20On%20Melon.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20On%20Melon/Attack%20On%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Attack On Titan Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20On%20Titan%20Mod/Attack%20On%20Titan%20Mod.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20On%20Titan%20Mod/Attack%20On%20Titan%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Attack on Titan Pack Eren titan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20on%20Titan%20Pack%20Eren%20titan/Attack%20on%20Titan%20Pack%20Eren%20titan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20on%20Titan%20Pack%20Eren%20titan/Attack%20on%20Titan%20Pack%20Eren%20titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"ATTACK TITAN",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/ATTACK%20TITAN/ATTACK%20TITAN.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/ATTACK%20TITAN/ATTACK%20TITAN.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Attack Titan at Melon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20Titan%20at%20Melon/Attack%20Titan%20at%20Melon.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20Titan%20at%20Melon/Attack%20Titan%20at%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Attack Titan Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20Titan%20Mod/Attack%20Titan%20Mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Attack%20Titan%20Mod/Attack%20Titan%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Colossus and Berthold",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Colossus%20and%20Berthold/Colossus%20and%20Berthold.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Colossus%20and%20Berthold/Colossus%20and%20Berthold.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Eren Titan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Eren%20Titan/Eren%20Titan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Eren%20Titan/Eren%20Titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Mod Eren titan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Mod%20Eren%20titan/Mod%20Eren%20titan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Mod%20Eren%20titan/Mod%20Eren%20titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Old Attack Titan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Old%20Attack%20Titan/Old%20Attack%20Titan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Old%20Attack%20Titan/Old%20Attack%20Titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Rebuild Attack Titan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Rebuild%20Attack%20Titan/Rebuild%20Attack%20Titan.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/AOT/Rebuild%20Attack%20Titan/Rebuild%20Attack%20Titan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
