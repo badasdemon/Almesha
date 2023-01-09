@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-2080033745578001/1434221814",
+      "main_ads_intertitial":"ca-app-pub-2080033745578001/4335980655",
+      "main_ads_natives":"ca-app-pub-2080033745578001/3022898987",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"ca-app-pub-2080033745578001/1876256700",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17fbbbbad",
+      "initialize_sdk_backup_ads":"17fbbbbad",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"2 NPC from Backrooms",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/2%20NPC%20from%20Backrooms/2%20NPC%20from%20Backrooms.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/2%20NPC%20from%20Backrooms/2%20NPC%20from%20Backrooms.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Backrooms",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms/Backrooms.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms/Backrooms.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Backrooms 2",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%202/Backrooms%202.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%202/Backrooms%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Backrooms Behind The Sceenes",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%20Behind%20The%20Sceenes/Backrooms%20Behind%20The%20Sceenes.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%20Behind%20The%20Sceenes/Backrooms%20Behind%20The%20Sceenes.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Backrooms lvl 0",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%20lvl%200/Backrooms%20lvl%200.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Backrooms%20lvl%200/Backrooms%20lvl%200.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Boring guy",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Boring%20guy/Boring%20guy.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Boring%20guy/Boring%20guy.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Mini pack for Backstage",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Mini%20pack%20for%20Backstage/Mini%20pack%20for%20Backstage.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Mini%20pack%20for%20Backstage/Mini%20pack%20for%20Backstage.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Monsters from Backrooms",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Monsters%20from%20Backrooms/Monsters%20from%20Backrooms.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/Monsters%20from%20Backrooms/Monsters%20from%20Backrooms.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"The Backrooms (v-2)",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/The%20Backrooms%20(v-2)/The%20Backrooms%20(v-2).jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/The%20Backrooms%20(v-2)/The%20Backrooms%20(v-2).zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"The Backrooms mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/The%20Backrooms%20mod/The%20Backrooms%20mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Backrooms/The%20Backrooms%20mod/The%20Backrooms%20mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
