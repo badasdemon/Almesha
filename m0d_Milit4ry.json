@@ -1,0 +1,263 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-2080033745578001/1935966456",
+      "main_ads_intertitial":"ca-app-pub-2080033745578001/5137663104",
+      "main_ads_natives":"ca-app-pub-2080033745578001/4175935221",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"ca-app-pub-2080033745578001/7459755871",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17fbad58d",
+      "initialize_sdk_backup_ads":"17fbad58d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Chechen Military NPC",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Chechen%20Military%20NPC/Chechen%20Military%20NPC.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Chechen%20Military%20NPC/Chechen%20Military%20NPC.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Desert Military",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Desert%20Military/Desert%20Military.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Desert%20Military/Desert%20Military.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Military",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military/Military.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military/Military.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Military 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%202/Military%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%202/Military%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Military 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%203/Military%203.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%203/Military%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Military 256",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20256/Military%20256.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20256/Military%20256.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Military 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%204/Military%204.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%204/Military%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Military 5",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%205/Military%205.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%205/Military%205.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Military 6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%206/Military%206.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%206/Military%206.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Military 7",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%207/Military%207.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%207/Military%207.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Military 8",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%208/Military%208.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%208/Military%208.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Military base",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20base/Military%20base.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20base/Military%20base.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Military France",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20France/Military%20France.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20France/Military%20France.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Military from the USSR",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20from%20the%20USSR/Military%20from%20the%20USSR.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20from%20the%20USSR/Military%20from%20the%20USSR.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"Military Pack 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Pack%202/Military%20Pack%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Pack%202/Military%20Pack%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"Military Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Pack/Military%20Pack.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Pack/Military%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"Military robot sultan f34",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20robot%20sultan%20f34/Military%20robot%20sultan%20f34.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20robot%20sultan%20f34/Military%20robot%20sultan%20f34.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Military Set",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Set/Military%20Set.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Set/Military%20Set.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Military strategic drone",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20strategic%20drone/Military%20strategic%20drone.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20strategic%20drone/Military%20strategic%20drone.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Military Hummer",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Hummer/Military%20Hummer.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Hummer/Military%20Hummer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Military with sand coloring",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20with%20sand%20coloring/Military%20with%20sand%20coloring.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20with%20sand%20coloring/Military%20with%20sand%20coloring.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Military Z11",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Z11/Military%20Z11.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Military%20Z11/Military%20Z11.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"NPC - Military",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military/NPC%20-%20Military.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military/NPC%20-%20Military.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"NPC - Military OX45 - Defender of the President",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military%20OX45%20-%20Defender%20of%20the%20President/NPC%20-%20Military%20OX45%20-%20Defender%20of%20the%20President.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military%20OX45%20-%20Defender%20of%20the%20President/NPC%20-%20Military%20OX45%20-%20Defender%20of%20the%20President.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":25,
+    "name":"NPC - Military T37 - Mechanical Tank",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military%20T37%20-%20Mechanical%20Tank/NPC%20-%20Military%20T37%20-%20Mechanical%20Tank.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPC%20-%20Military%20T37%20-%20Mechanical%20Tank/NPC%20-%20Military%20T37%20-%20Mechanical%20Tank.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"NPCs and weapons",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPCs%20and%20weapons/NPCs%20and%20weapons.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/NPCs%20and%20weapons/NPCs%20and%20weapons.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Secret Military Laboratory",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/Secret%20Military%20Laboratory/Secret%20Military%20Laboratory.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/Secret%20Military%20Laboratory/Secret%20Military%20Laboratory.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"USA Military WW2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Military/USA%20Military%20WW2/USA%20Military%20WW2.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Military/USA%20Military%20WW2/USA%20Military%20WW2.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
