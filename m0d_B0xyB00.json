@@ -1,0 +1,111 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-2080033745578001/3535081051",
+      "main_ads_intertitial":"ca-app-pub-2080033745578001/3629368256",
+      "main_ads_natives":"ca-app-pub-2080033745578001/3343509365",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-2080033745578001/3956671316",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17ded3c5d",
+      "initialize_sdk_backup_ads":"17ded3c5d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Boxy Boo",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Boxy%20Boo/Boxy%20Boo.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Boxy%20Boo/Boxy%20Boo.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Boxy Boo 2",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Boxy%20Boo%202/Boxy%20Boo%202.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Boxy%20Boo%202/Boxy%20Boo%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Doll Poppy",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Doll%20Poppy/Doll%20Poppy.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Doll%20Poppy/Doll%20Poppy.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Mod boxy boo",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Mod%20boxy%20boo/Mod%20boxy%20boo.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Mod%20boxy%20boo/Mod%20boxy%20boo.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Mommy Long Leg",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Mommy%20Long%20Leg/Mommy%20Long%20Leg.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Mommy%20Long%20Leg/Mommy%20Long%20Leg.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Poppy Hand",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Hand/Poppy%20Hand.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Hand/Poppy%20Hand.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Poppy Playtime",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime/Poppy%20Playtime.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime/Poppy%20Playtime.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Poppy Playtime 1 and 2 Chapters",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime%201%20and%202%20chapters/Poppy%20Playtime%201%20and%202%20chapters.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime%201%20and%202%20chapters/Poppy%20Playtime%201%20and%202%20chapters.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Poppy Playtime 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime%202/Poppy%20Playtime%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Boxy%20Boo/Poppy%20Playtime%202/Poppy%20Playtime%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
